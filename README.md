@@ -2,6 +2,6 @@
 
 
 ### ABOUT ME
-- 🔭 I’m currently learning ... Data anlysis using python and fintech engineering using node.js & react.
-- 🌱 I’m looking forward to ... being a fintech engineer.
-- 📫 How to reach me: ... e-mail me.
+- 🔭 I’m currently learning ... Data anlysis using python and Bigdata Engineering using Hadoop Ecosystem.
+- 🌱 I’m looking forward to ... being a ML/DL engineer.
+- 📫 How to reach me: shseanlee1@gmail.com
