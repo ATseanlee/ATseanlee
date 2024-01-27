@@ -7,4 +7,4 @@
 - 📫 How to reach me: shseanlee1@gmail.com
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={shseanlee2})](https://solved.ac/{shseanlee2})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={autotic@naver.com})](https://solved.ac/{autotic@naver.com})
