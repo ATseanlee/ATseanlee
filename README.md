@@ -2,8 +2,8 @@
 
 
 ### ABOUT ME
-- 🔭 I’m currently learning ... Python, JAVA and CS.
-- 🌱 I’m looking forward to ... being Data Scientis and engineer.
+- 🔭 Programming Languages that I studied ... Python, JAVA and Javascript.
+- 🌱 I’m looking forward to ... being Developer related to data.
 - 📫 How to reach me: shseanlee1@gmail.com
 - 🖥️ BaekJoon Online Judge Stats
  
